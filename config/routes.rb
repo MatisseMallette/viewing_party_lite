@@ -9,6 +9,7 @@ Rails.application.routes.draw do
   resources :users, only: %i[create show] do
     member do
       get 'discover', to: 'users/discover#index'
+      get 'movies', to: 'users/movies#index'
     end
   end
 end

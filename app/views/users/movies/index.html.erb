@@ -1,0 +1,6 @@
+<% @movies.each do |movie| %>
+  <p>
+    <%= link_to "#{movie.first}", "/users/#{@user.id}/movies/#{movie[1]}", method: :get %> 
+    Average vote: <%= movie.last %>
+  </p>
+<% end %>

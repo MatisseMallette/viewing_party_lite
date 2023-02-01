@@ -1,0 +1,153 @@
+{
+  "page": 1,
+  "results": [
+      {
+          "adult": false,
+          "backdrop_path": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+          "genre_ids": [
+              18,
+              36,
+              10752
+          ],
+          "id": 424,
+          "original_language": "en",
+          "original_title": "Schindler's List",
+          "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+          "popularity": 50.058,
+          "poster_path": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+          "release_date": "1993-12-15",
+          "title": "Schindler's List",
+          "video": false,
+          "vote_average": 8.6,
+          "vote_count": 13708
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/x7vFueQUxlgNAGwy1qMrYVThdf0.jpg",
+          "genre_ids": [
+              99,
+              36,
+              10770
+          ],
+          "id": 532169,
+          "original_language": "en",
+          "original_title": "Schindler",
+          "overview": "The true story of German-Czech businessman Oskar Schindler (1908-74) as told by some of the Jews — more than a thousand people — whose lives he saved from extermination during World War II.",
+          "popularity": 0.807,
+          "poster_path": "/vphiF1zeEwaEcv5ZPJ6spwxKaN6.jpg",
+          "release_date": "1983-10-01",
+          "title": "Schindler",
+          "video": false,
+          "vote_average": 7.3,
+          "vote_count": 4
+      },
+      {
+          "adult": false,
+          "backdrop_path": null,
+          "genre_ids": [
+              99
+          ],
+          "id": 708631,
+          "original_language": "en",
+          "original_title": "Heroes of the Holocaust: Oskar Schindler",
+          "overview": "Heroes Of The Holocaust series profiles those who risked or gave their lives to save others. The word \"hero\" should never be used lightly, but there are those who embody every letter of the word. Oskar Schindler is one such man. Join us for an in-depth look at Oskar Schindler's humble beginnings, the bravery he showed in the face of extreme danger, and the lion heart he possessed to always put first the well being of others.",
+          "popularity": 0.932,
+          "poster_path": null,
+          "release_date": "2020-02-04",
+          "title": "Heroes of the Holocaust: Oskar Schindler",
+          "video": false,
+          "vote_average": 0,
+          "vote_count": 0
+      },
+      {
+          "adult": false,
+          "backdrop_path": null,
+          "genre_ids": [
+              99
+          ],
+          "id": 357828,
+          "original_language": "en",
+          "original_title": "Hitler, Schindler and the Holocaust",
+          "overview": "Documentary describing the rise of Nazi Germany and the resultant Holocaust, with a focus on the lives of two Germans with vastly different attitudes and agendas, Oskar Schindler and Adolf Hitler.",
+          "popularity": 0.654,
+          "poster_path": null,
+          "release_date": "1994-11-23",
+          "title": "Hitler, Schindler and the Holocaust",
+          "video": false,
+          "vote_average": 0,
+          "vote_count": 0
+      },
+      {
+          "adult": false,
+          "backdrop_path": null,
+          "genre_ids": [
+              99
+          ],
+          "id": 74118,
+          "original_language": "de",
+          "original_title": "Schindler's Houses",
+          "overview": "Both a beguiling meditation on the aesthetic of a city and a loving tribute to a great architect, Heinz Emigholz's documentary examines urban Los Angeles through the houses of Austrian-American architect Rudolph Schindler. Eschewing the documentary conventions of voice-over narration and archival photos, Emigholz mixes artfully composed images of more than 40 Schindler creations with an ambient soundscape to produce a singular viewing experience.",
+          "popularity": 0.6,
+          "poster_path": null,
+          "release_date": "2007-06-04",
+          "title": "Schindler's Houses",
+          "video": false,
+          "vote_average": 7,
+          "vote_count": 4
+      },
+      {
+          "adult": false,
+          "backdrop_path": null,
+          "genre_ids": [
+              99
+          ],
+          "id": 625604,
+          "original_language": "en",
+          "original_title": "Schindler's List: 25 Years Later",
+          "overview": "This piece presents an on-stage discussion following a 2018 screening at The Beacon Theater for the Tribeca Film Festival. Participants include Director Steven Spielberg and Actors Liam Neeson, Ben Kingsley, Caroline Goodall, and Embeth Davidtz. The discussion is moderated by Film Critic Janet Maslin. Discussions include Spielberg reminiscing about seeing the film for the first time in many years, how he became involved in the production, performance qualities, memories from the production, viewing the film once again with an audience, film construction, casting details, interactions with the cast, the film's importance, and more. The piece is intercut with film footage and behind-the-scenes clips.",
+          "popularity": 2.173,
+          "poster_path": "/8Ub37aAI5BpgJUy03m3k3qdVLuT.jpg",
+          "release_date": "2018-12-18",
+          "title": "Schindler's List: 25 Years Later",
+          "video": false,
+          "vote_average": 8.3,
+          "vote_count": 3
+      },
+      {
+          "adult": false,
+          "backdrop_path": null,
+          "genre_ids": [
+              99
+          ],
+          "id": 991366,
+          "original_language": "ru",
+          "original_title": "Bitter Taste of Love or Frau Schindler's List",
+          "overview": "The film is the true story of Oscar Schindler’s wife, Emilie. Although lost to history (and left out of Spielberg’s movie altogether), the few survivors still alive testify in moving interviews to the fact it was Emilie who actually washed, clothed and fed the Jews her husband saved. This documentary will right a historical wrong and shine a light on Emilie Schindler’s dedication and the risks she took — another example of the man getting all the credit. The real Emilie (in a wheelchair) is shown in the last scene of Schindler’s List. She is wheeled toward Oscar’s grave, though viewers always assumed she was one of the survivors — not the woman who did the saving. (Boca Raton Jewish Film Festival)",
+          "popularity": 0.6,
+          "poster_path": null,
+          "release_date": "",
+          "title": "Bitter Taste of Love or Frau Schindler's List",
+          "video": false,
+          "vote_average": 0,
+          "vote_count": 0
+      },
+      {
+          "adult": false,
+          "backdrop_path": null,
+          "genre_ids": [],
+          "id": 968682,
+          "original_language": "de",
+          "original_title": "Schindlers Liste - Eine wahre Geschichte",
+          "overview": "",
+          "popularity": 0.84,
+          "poster_path": "/pbJnNRYxb5AEOsNEQpq49zJKpzW.jpg",
+          "release_date": "",
+          "title": "Schindlers Liste - Eine wahre Geschichte",
+          "video": true,
+          "vote_average": 0,
+          "vote_count": 0
+      }
+  ],
+  "total_pages": 1,
+  "total_results": 8
+}
